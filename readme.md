@@ -41,6 +41,8 @@ The model was trained on the CWRU dataset using the following steps:
 **Results**
 
 The model achieved an accuracy of 98.5% on the validation set. The following image shows the results during the training of the model.
+
+
 ![image](https://github.com/R1SHABHRAJ/DAN-Unilateral-Model/assets/83481534/48b14dc6-1c70-45c7-8969-8396009e5a28)
 
 **Usage**
