@@ -1,7 +1,7 @@
 **DAN Unilateral Model Trained on CWRU Dataset**
 
 This repository contains the code for a Dan unilateral model trained on the CWRU dataset. The model is a convolutional neural network (CNN) that can be used to classify the health state of a bearing.
-You can directly the file from the following [![Open In Colab](https://colab.research.google.com/)](https://colab.research.google.com/drive/1RflxmpM7Iw9M0u6zPo8Ma5O-ZSHggejd?usp=sharing)
+You can directly the file from the following [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RflxmpM7Iw9M0u6zPo8Ma5O-ZSHggejd?usp=sharing)
 
 **Dataset**
 
