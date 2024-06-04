@@ -54,4 +54,4 @@ The model can be used to classify the health state of a bearing by following the
 3. Pass the data through the model.
 4. Get the output of the model, which is the probability of each health state.
 
-**A YouTube tutorial is also available that elucidates the concepts employed in this model:**
+**A YouTube tutorial is also available that elucidates the concepts employed in this model: https://youtu.be/tx6E2nFj-uk**
